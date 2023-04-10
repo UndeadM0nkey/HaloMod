@@ -1,7 +1,0 @@
-Java Launcher: C:\Program Files\Java\jdk-17.0.1\bin\java.exe
-Arguments: '--inJar, C:\Users\Jérémy\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.18.2-40.2.1\forge-1.18.2-40.2.1-injected.jar, --outJar, C:\Users\Jérémy\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.18.2-40.2.1_mapped_parchment_1.18.1-2022.02.13-1.18.2\forge-1.18.2-40.2.1_mapped_parchment_1.18.1-2022.02.13-1.18.2.jar, --logFile, accesstransform.log, --atFile, C:\Users\Jérémy\Desktop\HaloMod\build\_atJar_4\parent_at.cfg'
-Classpath:
- - C:\Users\Jérémy\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
-Working directory: C:\Users\Jérémy\Desktop\HaloMod\build\_atJar_4
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================
